@@ -26,10 +26,10 @@ The model was implemented using the adam optimizer.
 
 # Results
 
-## -Overall Accuracy:  81.38%
-## -Overall Precision: 79.78%
-## -Overall Recall:    78.60%
-## -Overall F1-Score:  79.11%
+- Overall Accuracy:  81.38%
+- Overall Precision: 79.78%
+- Overall Recall:    78.60%
+- Overall F1-Score:  79.11%
 
 
 <p align="center">
